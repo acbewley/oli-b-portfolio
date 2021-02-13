@@ -1,0 +1,11 @@
+#jumbo {
+    padding-top: 50px;
+}
+
+.short-box {
+    max-width: 200px;
+}
+
+.long-box {
+    max-width: 500px;
+}
