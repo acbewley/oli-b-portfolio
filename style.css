@@ -9,3 +9,11 @@
 .long-box {
     max-width: 500px;
 }
+
+.port-img {
+    max-width: 100%;
+}
+
+#top-row {
+    padding-bottom: 20px;
+}
